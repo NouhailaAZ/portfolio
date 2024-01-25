@@ -92,7 +92,7 @@
 }
 .container .animate:nth-child(8)
 {
-    left: 90%;
+    left: 85%;
     top:55%;  
     border: 6px solid #92cdd9 ; 
     animation: animate 10s linear infinite;
